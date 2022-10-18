@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\A_Star_C_Sharp\A_Star_C_Sharp\bin\Debug\net6.0\A_Star_C_Sharp.exe
+C:\Users\ACER\source\repos\A_Star_C_Sharp\A_Star_C_Sharp\bin\Debug\net6.0\A_Star_C_Sharp.deps.json
+C:\Users\ACER\source\repos\A_Star_C_Sharp\A_Star_C_Sharp\bin\Debug\net6.0\A_Star_C_Sharp.runtimeconfig.json
+C:\Users\ACER\source\repos\A_Star_C_Sharp\A_Star_C_Sharp\bin\Debug\net6.0\A_Star_C_Sharp.dll
+C:\Users\ACER\source\repos\A_Star_C_Sharp\A_Star_C_Sharp\bin\Debug\net6.0\A_Star_C_Sharp.pdb
+C:\Users\ACER\source\repos\A_Star_C_Sharp\A_Star_C_Sharp\obj\Debug\net6.0\A_Star_C_Sharp.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\A_Star_C_Sharp\A_Star_C_Sharp\obj\Debug\net6.0\A_Star_C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\A_Star_C_Sharp\A_Star_C_Sharp\obj\Debug\net6.0\A_Star_C_Sharp.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\A_Star_C_Sharp\A_Star_C_Sharp\obj\Debug\net6.0\A_Star_C_Sharp.AssemblyInfo.cs
+C:\Users\ACER\source\repos\A_Star_C_Sharp\A_Star_C_Sharp\obj\Debug\net6.0\A_Star_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\A_Star_C_Sharp\A_Star_C_Sharp\obj\Debug\net6.0\A_Star_C_Sharp.dll
+C:\Users\ACER\source\repos\A_Star_C_Sharp\A_Star_C_Sharp\obj\Debug\net6.0\refint\A_Star_C_Sharp.dll
+C:\Users\ACER\source\repos\A_Star_C_Sharp\A_Star_C_Sharp\obj\Debug\net6.0\A_Star_C_Sharp.pdb
+C:\Users\ACER\source\repos\A_Star_C_Sharp\A_Star_C_Sharp\obj\Debug\net6.0\A_Star_C_Sharp.genruntimeconfig.cache
+C:\Users\ACER\source\repos\A_Star_C_Sharp\A_Star_C_Sharp\obj\Debug\net6.0\ref\A_Star_C_Sharp.dll
